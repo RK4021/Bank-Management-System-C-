@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644047404 source:e:\c++\bank management\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cctype>
+	<conio.h>
+	<bits/stdc++.h>
+
